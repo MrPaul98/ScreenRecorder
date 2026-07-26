@@ -52,7 +52,7 @@ npm run dev
 Then open the local URL shown in the terminal, usually:
 
 ```text
-http://localhost:5173
+http://localhost:5173/screen-recorder/
 ```
 
 ## Build for Production
