@@ -7,7 +7,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/screen_recorder/',
+  base: '/screen-recorder/',
   plugins: [vue(), vueDevTools(), tailwindcss()],
   resolve: {
     alias: {
