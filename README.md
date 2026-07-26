@@ -86,4 +86,4 @@ npm run preview
 
 ## Deployment
 
-This project is deployed to GitHub Pages through GitHub Actions.
+This project is deployed to GitHub Pages through GitHub Actions.  
