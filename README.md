@@ -8,9 +8,9 @@ https://mrpaul98.github.io/ScreenRecorder/
 
 ## App Preview
 
-Below is a screenshot of the app UI. To show the real interface add a screenshot file at `public/image.png` (recommended). The SVG illustration is kept as a fallback.
+Below is a screenshot of the app UI. To show the real interface add a screenshot file at `public/image.png` (recommended). The PNG illustration is kept as a fallback.
 
-![Screenshot - Screen Recorder](public/image.png)
+![Screenshot - Screen Recorder App](public/image.png)
 
 ## Features
 
@@ -52,7 +52,7 @@ npm run dev
 Then open the local URL shown in the terminal, usually:
 
 ```text
-http://localhost:5173
+http://localhost:5173/screen-recorder/
 ```
 
 ## Build for Production
@@ -86,4 +86,4 @@ npm run preview
 
 ## Deployment
 
-This project is deployed to GitHub Pages through GitHub Actions.
+This project is deployed to GitHub Pages through GitHub Actions.  
